@@ -31,8 +31,8 @@
   float: right;
 }
 .mini {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   background-color: yellow;
   float: left;
   margin-left: 10px;
@@ -44,16 +44,43 @@
   float: right;
 }
 .mini2 {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   background-color: blue;
   float: left;
   margin-right: 10px;
 }
 .mini3 {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   background-color: yellow;
   float: left;
   margin-left: 10px;
+}
+.block7 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.block8 {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  float: left;
+}
+.block9 {
+  float: left;
+}
+.mini4 {
+  height: 95px;
+  width: 95px;
+  background-color: yellow;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.mini5 {
+  height: 95px;
+  width: 95px;
+  background-color: yellow;
+  margin-left: 10px;
+  margin-top: 10px;
 }
