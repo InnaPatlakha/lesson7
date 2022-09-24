@@ -30,7 +30,7 @@
 .block4 {
   float: right;
 }
-.mini {
+.inner {
   height: 200px;
   width: 200px;
   background-color: yellow;
@@ -43,14 +43,14 @@
 .block6 {
   float: right;
 }
-.mini2 {
+.inner2 {
   height: 200px;
   width: 200px;
   background-color: blue;
   float: left;
   margin-right: 10px;
 }
-.mini3 {
+.inner3 {
   height: 200px;
   width: 200px;
   background-color: yellow;
@@ -58,7 +58,9 @@
   margin-left: 10px;
 }
 .block7 {
-  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 420px;
 }
 .block8 {
   height: 200px;
@@ -69,14 +71,14 @@
 .block9 {
   float: left;
 }
-.mini4 {
+.mini1 {
   height: 95px;
   width: 200px;
   background-color: yellow;
   margin-left: 10px;
   margin-bottom: 10px;
 }
-.mini5 {
+.mini2 {
   height: 95px;
   width: 200px;
   background-color: yellow;
@@ -95,14 +97,14 @@
 .block12 {
   float: left;
 }
-.mini6 {
+.mini3 {
   height: 95px;
   width: 200px;
   background-color: yellow;
   margin-left: 10px;
   margin-bottom: 10px;
 }
-.mini7 {
+.mini4 {
   height: 95px;
   width: 200px;
   background-color: yellow;
