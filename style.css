@@ -37,3 +37,23 @@
   float: left;
   margin-left: 10px;
 }
+.block5 {
+  float: left;
+}
+.block6 {
+  float: right;
+}
+.mini2 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  float: left;
+  margin-right: 10px;
+}
+.mini3 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  float: left;
+  margin-left: 10px;
+}
