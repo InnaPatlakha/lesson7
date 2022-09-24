@@ -1,3 +1,22 @@
 * {
   box-sizing: border-box;
 }
+.clearfix {
+  clear: both;
+}
+.row {
+  border: 5px solid black;
+  padding: 20px;
+}
+.block1 {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  float: left;
+}
+.block2 {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  float: right;
+}
